@@ -1,20 +1,17 @@
 # CN-LAB-1
-
-🔬 EXPERIMENT 1 – Introduction to Cisco Packet Tracer
-🎯 Objective:
+ EXPERIMENT 1 – Introduction to Cisco Packet Tracer
+ Objective:
 To understand the basic interface and functionality of Cisco Packet Tracer and get familiar with its components for creating simple network topologies.
-
-🧰 Tools Required:
+ Tools Required:
 Cisco Packet Tracer (version 8.x recommended)
 
 Computer with Windows/Linux/macOS
 
 Internet connection (for download/updates)
-
-📘 Theory:
+ Theory:
 Cisco Packet Tracer is a powerful network simulation tool developed by Cisco Systems. It allows students and professionals to simulate complex networks without the need for physical hardware. It provides drag-and-drop functionality to create network topologies and test configurations such as IP addressing, routing protocols, VLANs, etc.
 
-🧪 Procedure:
+ Procedure:
 Open Cisco Packet Tracer.
 
 Familiarize with the Interface:
@@ -41,16 +38,16 @@ Assign IP addresses.
 
 Test connectivity using the ping command.
 
-✅ Result:
+ Result:
 Successfully created a basic network topology and tested connectivity using Cisco Packet Tracer.
 
-🌐 Steps to Create a Repository in GitHub
-🛠 Prerequisites:
+ Steps to Create a Repository in GitHub
+ Prerequisites:
 GitHub account
 
 Basic knowledge of Git (optional)
 
-📌 Steps:
+ Steps:
 Login to GitHub:
 
 Go to https://github.com
@@ -73,11 +70,11 @@ Choose Public or Private.
 
 Optionally select:
 
-✅ Initialize this repository with a README
+1. Initialize this repository with a README
 
-✅ Add .gitignore (optional, based on language)
+2. Add .gitignore (optional, based on language)
 
-✅ Choose a license (optional)
+3. Choose a license (optional)
 
 Click "Create Repository".
 
@@ -96,9 +93,7 @@ Edit
 git add .
 git commit -m "Initial commit"
 git push origin main
-🎯 Outcome:
+ Outcome:
 Successfully created a GitHub repository and understood basic version control setup.
 
-
-<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/caf73151-4bde-450c-8e12-cf6b6a86b2c0" />
 

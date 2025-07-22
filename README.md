@@ -98,3 +98,7 @@ git commit -m "Initial commit"
 git push origin main
 🎯 Outcome:
 Successfully created a GitHub repository and understood basic version control setup.
+
+
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/caf73151-4bde-450c-8e12-cf6b6a86b2c0" />
+
